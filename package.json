@@ -1,0 +1,17 @@
+{
+  "name": "cusersejdlidocumentsfed27-course4-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "sqlite3": "^6.0.1"
+  }
+}
